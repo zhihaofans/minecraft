@@ -1,4 +1,4 @@
-# Minecraft 1.11 Dockerfile - Example with notes
+# Minecraft 1.14.1 Dockerfile - Example with notes
 
 # Use the offical Debian Docker image with a specified version tag, Stretch, so not all
 # versions of Debian images are downloaded.
